@@ -25,7 +25,7 @@
 	- `view > command palette > python:select interpreter > conda..`
 	- 터미널에 가상환경이름 표시하려면 : cmd로 변경 `Command Palette > Select Default Profile > Command Prompt`
 4. Jupyter notebook 설치.
-	- [02 shell](./02 shell.md)
+	- [02 shell](./02shell.md)
 
 ## 코딩 실습
 1. 앱생성
