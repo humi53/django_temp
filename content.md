@@ -142,5 +142,8 @@ class PostAdmin(admin.ModelAdmin):
 	- https://docs.djangoproject.com/en/3.0/ref/contrib/admin/
 
 ## Media with 장고.
- - 링크 : 
+- [01_media](./01_media.md)
+
+## jupyter notebook shell
+- [02_shell](./02_shell.md)
 
